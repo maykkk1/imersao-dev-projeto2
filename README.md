@@ -1,6 +1,7 @@
 # DESAFIO 2 da imersão _DEV
+## PROJETO CONVERSOR DE MOEDAS
 
-## Tasks do Desafio
+### Tasks do Desafio
 
 - [x] Adicionar outras moedas para converter.
 - [ ] Conversor de quilômetros para anos luz e verificar o tempo que demora para ir de uma estrela para outra.
